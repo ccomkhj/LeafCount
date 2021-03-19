@@ -16,3 +16,5 @@ M. Minervini, A. Fischbach, H.Scharr, and S.A. Tsaftaris. Finely-grained annotat
 Hanno Scharr, Massimo Minervini, Andreas Fischbach, Sotirios A. Tsaftaris. Annotated Image Datasets of Rosette Plants. Technical Report No. FZJ-2014-03837, Forschungszentrum Jülich, 2014
 Bell, Jonathan, & Dee, Hannah M. (2016). Aberystwyth Leaf Evaluation Dataset [Data set]. Zenodo. http://doi.org/10.5281/zenodo.168158
 or the 2017 challenge documents on LSC 2017 or LCC 2017.
+
+https://data-challenges.fz-juelich.de/web/challenges/challenge-page/85/overview
