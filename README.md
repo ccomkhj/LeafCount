@@ -2,6 +2,7 @@ Challenge Overview
 Welcome to the Leaf Counting Challenge
 
 This is the Jülich Challenges version of the Leaf Counting Challenge (LCC) from CVPPP2017, the third workshop on Computer Vision Problems in Plant Phenotyping held in conjunction with ICCV2017. The Leaf Segmentation Challenge (LSC) based on the same data is already online available at CodaLab under challenge number 18405. We set up this LCC version to meet the communities interest in this challenge, as e.g. visible in the still high download numbers of the dataset (see Fig.1). For further information please refer to our dataset page.
+https://gitlab.version.fz-juelich.de/MLDL_FZJ/MLDL_FZJ_Wiki/-/wikis/Juelich%20Challenges%20Hackathon
 
 
 About the data
