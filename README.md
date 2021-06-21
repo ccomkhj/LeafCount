@@ -15,7 +15,7 @@ The given label is only the number of leafs, but the size of images and the port
 Therefore, detecting the plant without plants are the most difficult challenges.
 I have come up with the several Computer vision algorithm.
 
-First, I tried to detect the vase of plant by using circular hough transformation. However, vase's shape is not only circle. So, it failed.
-Second, I used clouding method. K-means was applied to detect. My intuition was that most of green color of plants will gather in one mode. I also converted RGB into HSV, HSL , but it was not working.
-Third, I tested pre-trained YOLO to detect the location of leaf, but it was not effective. There was not publicly pre-trained weight only for the leave only.
-Fourth, I utilized Grab-cut which is semi-supervised learning. In the begining I used Open-CV to simply implement the algorithm, but it supports only one forground and one background image, but multiple images are necessary to cover the diversity of plant and background. Therefore, I developed the customized grab-cut algorithm which takes 6 foregrounds and backgrounds each.
+First, I tried to detect the vase of plant by using circular <span style='color:blue'>hough transformation</span>. However, vase's shape is not only circle. So, it failed.<br>
+Second, I used clouding method. <span style='color:blue'>K-means</span> was applied to detect. My intuition was that most of green color of plants will gather in one mode. I also converted RGB into HSV, HSL , but it was not working.<br>
+Third, I tested pre-trained <span style='color:blue'>YOLO</span> to detect the location of leaf, but it was not effective. There was not publicly pre-trained weight only for the leave only.<br>
+Fourth, I utilized <span style='color:red'>Grab-cut</span> which is semi-supervised learning. In the begining I used Open-CV to simply implement the algorithm, but it supports only one forground and one background image, but multiple images are necessary to cover the diversity of plant and background. Therefore, I developed the customized grab-cut algorithm which takes 6 foregrounds and backgrounds each.<br>
